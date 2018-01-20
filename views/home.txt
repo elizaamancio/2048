@@ -1,0 +1,9 @@
+---------2048---------
+
+Type:
+
+s - To Start
+x - To Exit
+
+
+Feito por Eliza Amancio
